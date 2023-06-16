@@ -1,1 +1,1 @@
-# cashzy
+# Cashzy Daily Bonus Bypass Script
